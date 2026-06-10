@@ -1,0 +1,71 @@
+[general]
+log_level = "info"
+log_format = "json"
+log_file = "./logs/cte.log"
+data_dir = "./data"
+
+[trading]
+starting_capital = 10000.0
+max_positions = 5
+max_position_size_usd = 2000.0
+default_leverage = 1.0
+auto_trade_on_start = true
+default_strategy = "default"
+symbols = ["BTCUSDT", "ETHUSDT", "SOLUSDT"]
+
+[exchanges.binance]
+enabled = true
+spot_rest = "https://api.binance.com"
+futures_rest = "https://fapi.binance.com"
+spot_ws = "wss://stream.binance.com:9443/ws"
+futures_ws = "wss://fstream.binance.com/ws"
+rate_limit_weight_per_minute = 1200
+
+[exchanges.okx]
+enabled = true
+rest = "https://www.okx.com"
+ws_public = "wss://ws.okx.com:8443/ws/v5/public"
+rate_limit_per_second = 10
+
+[exchanges.bybit]
+enabled = true
+rest = "https://api.bybit.com"
+ws_public_linear = "wss://stream.bybit.com/v5/public/linear"
+ws_public_spot = "wss://stream.bybit.com/v5/public/spot"
+rate_limit_per_second = 10
+
+[exchanges.gateio]
+enabled = true
+rest = "https://api.gateio.ws/api/v4"
+ws = "wss://api.gateio.ws/ws/v4/"
+rate_limit_per_second = 10
+
+[exchanges.bitget]
+enabled = true
+rest = "https://api.bitget.com"
+ws_public = "wss://ws.bitget.com/v2/ws/public"
+rate_limit_per_second = 10
+
+[tui]
+refresh_rate_ms = 16
+max_candles_displayed = 200
+max_trades_displayed = 100
+orderbook_depth = 20
+
+[scraper]
+okx_enabled = true
+bybit_enabled = true
+binance_enabled = false
+scrape_interval_secs = 300
+
+[strategies.default]
+type = "multi"
+ema_fast = 9
+ema_slow = 21
+rsi_period = 14
+rsi_overbought = 70.0
+rsi_oversold = 30.0
+atr_period = 14
+atr_stop_multiplier = 2.0
+bollinger_period = 20
+bollinger_std_dev = 2.0

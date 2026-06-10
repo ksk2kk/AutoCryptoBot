@@ -1,0 +1,12 @@
+/Users/Apple/Desktop/COCONUT/Work5/target/release/deps/ecolor-46ccb9b81064a9fa.d: /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/lib.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/color32.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hsva_gamma.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hsva.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/rgba.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hex_color_runtime.rs
+
+/Users/Apple/Desktop/COCONUT/Work5/target/release/deps/libecolor-46ccb9b81064a9fa.rlib: /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/lib.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/color32.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hsva_gamma.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hsva.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/rgba.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hex_color_runtime.rs
+
+/Users/Apple/Desktop/COCONUT/Work5/target/release/deps/libecolor-46ccb9b81064a9fa.rmeta: /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/lib.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/color32.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hsva_gamma.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hsva.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/rgba.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hex_color_runtime.rs
+
+/Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/lib.rs:
+/Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/color32.rs:
+/Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hsva_gamma.rs:
+/Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hsva.rs:
+/Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/rgba.rs:
+/Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ecolor-0.29.1/src/hex_color_runtime.rs:

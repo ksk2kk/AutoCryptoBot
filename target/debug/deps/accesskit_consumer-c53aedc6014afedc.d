@@ -1,0 +1,10 @@
+/Users/Apple/Desktop/COCONUT/Work5/target/debug/deps/accesskit_consumer-c53aedc6014afedc.d: /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/lib.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/tree.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/node.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/filters.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/iterators.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/text.rs
+
+/Users/Apple/Desktop/COCONUT/Work5/target/debug/deps/libaccesskit_consumer-c53aedc6014afedc.rmeta: /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/lib.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/tree.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/node.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/filters.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/iterators.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/text.rs
+
+/Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/lib.rs:
+/Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/tree.rs:
+/Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/node.rs:
+/Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/filters.rs:
+/Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/iterators.rs:
+/Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/accesskit_consumer-0.24.3/src/text.rs:

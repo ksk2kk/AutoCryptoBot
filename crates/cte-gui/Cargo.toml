@@ -1,0 +1,23 @@
+[package]
+name = "cte-gui"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cte-core = { workspace = true }
+cte-exchange = { workspace = true }
+cte-strategy = { workspace = true }
+cte-storage = { workspace = true }
+cte-scraper = { workspace = true }
+tokio = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+chrono = { workspace = true }
+rust_decimal = { workspace = true }
+rust_decimal_macros = { workspace = true }
+tracing = { workspace = true }
+uuid = { workspace = true }
+anyhow = { workspace = true }
+eframe = "0.29"
+egui = "0.29"
+egui_plot = "0.29"

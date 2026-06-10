@@ -1,0 +1,15 @@
+/Users/Apple/Desktop/COCONUT/Work5/target/debug/deps/markup5ever-1273aede7cd5d9c0.d: /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.14.1/lib.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.14.1/data/mod.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.14.1/interface/mod.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.14.1/interface/tree_builder.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.14.1/serialize.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.14.1/util/buffer_queue.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.14.1/util/smallcharset.rs /Users/Apple/Desktop/COCONUT/Work5/target/debug/build/markup5ever-81c673936f7a15cc/out/generated.rs /Users/Apple/Desktop/COCONUT/Work5/target/debug/build/markup5ever-81c673936f7a15cc/out/named_entities.rs
+
+/Users/Apple/Desktop/COCONUT/Work5/target/debug/deps/libmarkup5ever-1273aede7cd5d9c0.rmeta: /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.14.1/lib.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.14.1/data/mod.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.14.1/interface/mod.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.14.1/interface/tree_builder.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.14.1/serialize.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.14.1/util/buffer_queue.rs /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.14.1/util/smallcharset.rs /Users/Apple/Desktop/COCONUT/Work5/target/debug/build/markup5ever-81c673936f7a15cc/out/generated.rs /Users/Apple/Desktop/COCONUT/Work5/target/debug/build/markup5ever-81c673936f7a15cc/out/named_entities.rs
+
+/Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.14.1/lib.rs:
+/Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.14.1/data/mod.rs:
+/Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.14.1/interface/mod.rs:
+/Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.14.1/interface/tree_builder.rs:
+/Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.14.1/serialize.rs:
+/Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.14.1/util/buffer_queue.rs:
+/Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/markup5ever-0.14.1/util/smallcharset.rs:
+/Users/Apple/Desktop/COCONUT/Work5/target/debug/build/markup5ever-81c673936f7a15cc/out/generated.rs:
+/Users/Apple/Desktop/COCONUT/Work5/target/debug/build/markup5ever-81c673936f7a15cc/out/named_entities.rs:
+
+# env-dep:OUT_DIR=/Users/Apple/Desktop/COCONUT/Work5/target/debug/build/markup5ever-81c673936f7a15cc/out

@@ -1,0 +1,7 @@
+/Users/Apple/Desktop/COCONUT/Work5/target/debug/deps/scopeguard-fcaa619d732b0a6b.d: /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scopeguard-1.2.0/src/lib.rs
+
+/Users/Apple/Desktop/COCONUT/Work5/target/debug/deps/libscopeguard-fcaa619d732b0a6b.rlib: /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scopeguard-1.2.0/src/lib.rs
+
+/Users/Apple/Desktop/COCONUT/Work5/target/debug/deps/libscopeguard-fcaa619d732b0a6b.rmeta: /Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scopeguard-1.2.0/src/lib.rs
+
+/Users/Apple/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/scopeguard-1.2.0/src/lib.rs:

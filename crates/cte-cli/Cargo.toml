@@ -1,0 +1,26 @@
+[package]
+name = "cte-cli"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "cte"
+path = "src/main.rs"
+
+[dependencies]
+cte-core = { workspace = true }
+cte-exchange = { workspace = true }
+cte-strategy = { workspace = true }
+cte-storage = { workspace = true }
+cte-scraper = { workspace = true }
+cte-gui = { workspace = true }
+tokio = { workspace = true }
+serde = { workspace = true }
+serde_json = { workspace = true }
+chrono = { workspace = true }
+rust_decimal = { workspace = true }
+tracing = { workspace = true }
+tracing-subscriber = { workspace = true }
+tracing-appender = { workspace = true }
+clap = { workspace = true }
+anyhow = { workspace = true }

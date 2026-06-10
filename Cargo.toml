@@ -1,0 +1,41 @@
+[workspace]
+resolver = "2"
+members = [
+    "crates/cte-core",
+    "crates/cte-exchange",
+    "crates/cte-scraper",
+    "crates/cte-storage",
+    "crates/cte-strategy",
+    "crates/cte-gui",
+    "crates/cte-cli",
+]
+
+[workspace.dependencies]
+tokio = { version = "1", features = ["full"] }
+tokio-tungstenite = { version = "0.24", features = ["native-tls"] }
+futures-util = "0.3"
+reqwest = { version = "0.12", features = ["json", "gzip", "native-tls"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+toml = "0.8"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter", "json", "fmt"] }
+tracing-appender = "0.2"
+clap = { version = "4", features = ["derive"] }
+chrono = { version = "0.4", features = ["serde"] }
+rust_decimal = { version = "1", features = ["serde-with-str"] }
+rust_decimal_macros = "1"
+uuid = { version = "1", features = ["v4", "serde"] }
+thiserror = "2"
+anyhow = "1"
+url = "2"
+async-trait = "0.1"
+dashmap = "6"
+tokio-util = { version = "0.7", features = ["rt"] }
+
+cte-core = { path = "crates/cte-core" }
+cte-exchange = { path = "crates/cte-exchange" }
+cte-scraper = { path = "crates/cte-scraper" }
+cte-storage = { path = "crates/cte-storage" }
+cte-strategy = { path = "crates/cte-strategy" }
+cte-gui = { path = "crates/cte-gui" }
